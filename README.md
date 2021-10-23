@@ -1,3 +1,3 @@
 # remember_bootstrap
 
-simple project to remember Bootstrap concepts
+Projeto simples para relembrar os conceitos do Bootstrap,feito com o apoio do curso de Matheus Batistti.Curso desenvolvido pela Udemy.
